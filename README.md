@@ -11,3 +11,8 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 > npm install
 > npm start
 ```
+### Enabling Youtube API
+Go to https://console.developers.google.com
+Click on Enable API and Services
+Search for YouTube Data API v3 and click on Enable.
+Generate an API key in Credential Menu
